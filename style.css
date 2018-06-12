@@ -1,0 +1,37 @@
+body {
+    margin: 0 auto;
+}
+
+h1, h3, p {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.accordion {
+    width: 600px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+#cheese-heading {
+    background-color: #f4c842;
+    padding: 10px;
+}
+
+#lettuce-heading {
+    background-color: #3dbf55;
+    padding: 10px;
+}
+
+#tomato-heading {
+    background-color: #ff5938;
+    padding: 10px;
+}
+
+#beef-heading {
+    background-color: #755024;
+    padding: 10px;
+}
